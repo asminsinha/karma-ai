@@ -1,0 +1,16 @@
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Heavy ML Assets & Raw Datasets
+models/
+datasets/
+
+# Local Backend folder (Since these files are manually uploaded flat to Hugging Face)
+
+
+# Environmental Configurations / Keys
+.env
+*.env
